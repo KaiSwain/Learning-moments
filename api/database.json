@@ -1,0 +1,547 @@
+{
+    "users": [
+    {
+      "id": 1,
+      "name": "alice johnson",
+      "email": "alice.johnson@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 2,
+      "name": "bob smith",
+      "email": "bob.smith@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 3,
+      "name": "charlie davis",
+      "email": "charlie.davis@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 4,
+      "name": "dana lee",
+      "email": "dana.lee@example.com",
+      "cohort": "cohort 3"
+    },
+    {
+      "id": 5,
+      "name": "eve adams",
+      "email": "eve.adams@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 6,
+      "name": "frank miller",
+      "email": "frank.miller@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 7,
+      "name": "grace wilson",
+      "email": "grace.wilson@example.com",
+      "cohort": "cohort 3"
+    },
+    {
+      "id": 8,
+      "name": "hank harris",
+      "email": "hank.harris@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 9,
+      "name": "ivy clark",
+      "email": "ivy.clark@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 10,
+      "name": "jackie moore",
+      "email": "jackie.moore@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 11,
+      "name": "kenny perez",
+      "email": "kenny.perez@example.com",
+      "cohort": "cohort 3"
+    },
+    {
+      "id": 12,
+      "name": "lily martinez",
+      "email": "lily.martinez@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 13,
+      "name": "mason scott",
+      "email": "mason.scott@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 14,
+      "name": "nina brown",
+      "email": "nina.brown@example.com",
+      "cohort": "cohort 3"
+    },
+    {
+      "id": 15,
+      "name": "oscar davis",
+      "email": "oscar.davis@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 16,
+      "name": "paul walker",
+      "email": "paul.walker@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 17,
+      "name": "quinn taylor",
+      "email": "quinn.taylor@example.com",
+      "cohort": "cohort 3"
+    },
+    {
+      "id": 18,
+      "name": "rachel martinez",
+      "email": "rachel.martinez@example.com",
+      "cohort": "cohort 1"
+    },
+    {
+      "id": 19,
+      "name": "sam moore",
+      "email": "sam.moore@example.com",
+      "cohort": "cohort 2"
+    },
+    {
+      "id": 20,
+      "name": "tina wilson",
+      "email": "tina.wilson@example.com",
+      "cohort": "cohort 3"
+    }
+  ],
+  "userlikes": [
+    {
+      "userId": 1,
+      "postId": 5
+    },
+    {
+      "userId": 2,
+      "postId": 7
+    },
+    {
+      "userId": 3,
+      "postId": 9
+    },
+    {
+      "userId": 4,
+      "postId": 2
+    },
+    {
+      "userId": 5,
+      "postId": 4
+    },
+    {
+      "userId": 6,
+      "postId": 8
+    },
+    {
+      "userId": 7,
+      "postId": 1
+    },
+    {
+      "userId": 8,
+      "postId": 6
+    },
+    {
+      "userId": 9,
+      "postId": 10
+    },
+    {
+      "userId": 10,
+      "postId": 3
+    },
+    {
+      "userId": 11,
+      "postId": 12
+    },
+    {
+      "userId": 12,
+      "postId": 14
+    },
+    {
+      "userId": 13,
+      "postId": 13
+    },
+    {
+      "userId": 14,
+      "postId": 15
+    },
+    {
+      "userId": 15,
+      "postId": 17
+    },
+    {
+      "userId": 16,
+      "postId": 16
+    },
+    {
+      "userId": 17,
+      "postId": 18
+    },
+    {
+      "userId": 18,
+      "postId": 19
+    },
+    {
+      "userId": 19,
+      "postId": 20
+    },
+    {
+      "userId": 20,
+      "postId": 11
+    },
+    {
+      "userId": 1,
+      "postId": 3
+    },
+    {
+      "userId": 2,
+      "postId": 6
+    },
+    {
+      "userId": 3,
+      "postId": 4
+    },
+    {
+      "userId": 4,
+      "postId": 8
+    },
+    {
+      "userId": 5,
+      "postId": 7
+    },
+    {
+      "userId": 6,
+      "postId": 2
+    },
+    {
+      "userId": 7,
+      "postId": 5
+    },
+    {
+      "userId": 8,
+      "postId": 1
+    },
+    {
+      "userId": 9,
+      "postId": 12
+    },
+    {
+      "userId": 10,
+      "postId": 15
+    },
+    {
+      "userId": 11,
+      "postId": 18
+    },
+    {
+      "userId": 12,
+      "postId": 9
+    },
+    {
+      "userId": 13,
+      "postId": 14
+    },
+    {
+      "userId": 14,
+      "postId": 11
+    },
+    {
+      "userId": 15,
+      "postId": 16
+    },
+    {
+      "userId": 16,
+      "postId": 19
+    },
+    {
+      "userId": 17,
+      "postId": 7
+    },
+    {
+      "userId": 18,
+      "postId": 10
+    },
+    {
+      "userId": 19,
+      "postId": 13
+    },
+    {
+      "userId": 20,
+      "postId": 8
+    },
+    {
+      "userId": 1,
+      "postId": 16
+    },
+    {
+      "userId": 2,
+      "postId": 13
+    },
+    {
+      "userId": 3,
+      "postId": 19
+    },
+    {
+      "userId": 4,
+      "postId": 5
+    },
+    {
+      "userId": 5,
+      "postId": 2
+    },
+    {
+      "userId": 6,
+      "postId": 20
+    },
+    {
+      "userId": 7,
+      "postId": 11
+    },
+    {
+      "userId": 8,
+      "postId": 14
+    },
+    {
+      "userId": 9,
+      "postId": 4
+    },
+    {
+      "userId": 10,
+      "postId": 9
+    },
+    {
+      "userId": 11,
+      "postId": 15
+    },
+    {
+      "userId": 12,
+      "postId": 18
+    },
+    {
+      "userId": 13,
+      "postId": 3
+    },
+    {
+      "userId": 14,
+      "postId": 6
+    },
+    {
+      "userId": 15,
+      "postId": 10
+    },
+    {
+      "userId": 16,
+      "postId": 17
+    },
+    {
+      "userId": 17,
+      "postId": 8
+    },
+    {
+      "userId": 18,
+      "postId": 12
+    },
+    {
+      "userId": 19,
+      "postId": 1
+    },
+    {
+      "userId": 20,
+      "postId": 7
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "topicId": 3,
+      "title": "introduction to python",
+      "body": "python is an easy-to-learn programming language, widely used in many fields.",
+      "date": "2025-01-14",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "topicId": 2,
+      "title": "javascript for beginners",
+      "body": "javascript is a versatile language for both front-end and back-end development.",
+      "date": "2025-01-13",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "topicId": 1,
+      "title": "html basics",
+      "body": "learn the structure of web pages with html, the foundational language for the web.",
+      "date": "2025-01-12",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "topicId": 2,
+      "title": "css tips and tricks",
+      "body": "css allows you to style your web pages and create visually appealing designs.",
+      "date": "2025-01-11",
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "topicId": 3,
+      "title": "getting started with react",
+      "body": "react is a powerful library for building dynamic user interfaces.",
+      "date": "2025-01-10",
+      "userId": 5
+    },
+    {
+      "id": 6,
+      "topicId": 4,
+      "title": "node.js and server-side javascript",
+      "body": "node.js allows you to run javascript on the server side for full-stack development.",
+      "date": "2025-01-09",
+      "userId": 6
+    },
+    {
+      "id": 7,
+      "topicId": 2,
+      "title": "the power of javascript arrays",
+      "body": "mastering arrays in javascript will make your coding much easier and efficient.",
+      "date": "2025-01-08",
+      "userId": 7
+    },
+    {
+      "id": 8,
+      "topicId": 3,
+      "title": "web design principles",
+      "body": "good design principles are essential to create user-friendly and aesthetic websites.",
+      "date": "2025-01-07",
+      "userId": 8
+    },
+    {
+      "id": 9,
+      "topicId": 4,
+      "title": "working with apis in javascript",
+      "body": "learn how to interact with apis and retrieve data for your web applications.",
+      "date": "2025-01-06",
+      "userId": 9
+    },
+    {
+      "id": 10,
+      "topicId": 1,
+      "title": "understanding html forms",
+      "body": "forms are a fundamental part of any web application, allowing user input.",
+      "date": "2025-01-05",
+      "userId": 10
+    },
+    {
+      "id": 11,
+      "topicId": 2,
+      "title": "javascript functions explained",
+      "body": "functions are a key concept in javascript, allowing code reusability and modularity.",
+      "date": "2025-01-04",
+      "userId": 11
+    },
+    {
+      "id": 12,
+      "topicId": 3,
+      "title": "mastering css flexbox",
+      "body": "flexbox helps create complex layouts with minimal code, making it a must-know for web designers.",
+      "date": "2025-01-03",
+      "userId": 12
+    },
+    {
+      "id": 13,
+      "topicId": 4,
+      "title": "introduction to express.js",
+      "body": "express.js is a minimal and flexible node.js web application framework for building apis.",
+      "date": "2025-01-02",
+      "userId": 13
+    },
+    {
+      "id": 14,
+      "topicId": 1,
+      "title": "html tables and data representation",
+      "body": "html tables are an important way to represent structured data on web pages.",
+      "date": "2025-01-01",
+      "userId": 14
+    },
+    {
+      "id": 15,
+      "topicId": 2,
+      "title": "event handling in javascript",
+      "body": "handling user interactions with javascript events is a critical part of making dynamic web pages.",
+      "date": "2024-12-31",
+      "userId": 15
+    },
+    {
+      "id": 16,
+      "topicId": 3,
+      "title": "css grid layout",
+      "body": "css grid layout provides a more robust way to create complex web page layouts.",
+      "date": "2024-12-30",
+      "userId": 16
+    },
+    {
+      "id": 17,
+      "topicId": 4,
+      "title": "building a restful api with node.js",
+      "body": "learn how to build a rest api with node.js and express for your web applications.",
+      "date": "2024-12-29",
+      "userId": 17
+    },
+    {
+      "id": 18,
+      "topicId": 2,
+      "title": "javascript dom manipulation",
+      "body": "manipulating the dom is a fundamental concept in web development for interactive web pages.",
+      "date": "2024-12-28",
+      "userId": 18
+    },
+    {
+      "id": 19,
+      "topicId": 1,
+      "title": "semantic html and accessibility",
+      "body": "using semantic html makes your web pages more accessible and improves seo.",
+      "date": "2024-12-27",
+      "userId": 19
+    },
+    {
+      "id": 20,
+      "topicId": 3,
+      "title": "css transitions and animations",
+      "body": "adding transitions and animations to your css can greatly improve the user experience.",
+      "date": "2024-12-26",
+      "userId": 20
+    }
+  ],  
+      "topics": [
+    {
+      "id": 1,
+      "name": "html"
+    },
+    {
+      "id": 2,
+      "name": "javascript"
+    },
+    {
+      "id": 3,
+      "name": "css"
+    },
+    {
+      "id": 4,
+      "name": "node.js"
+    }
+  ]
+  }
+  

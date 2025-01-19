@@ -1,0 +1,67 @@
+
+html {
+    background-color: rgba(10, 0, 155, 0.445);
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.3rem;
+    
+}
+
+ul {
+list-style: none;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+padding: 10%;
+
+gap:10%
+
+}
+
+li {
+    margin: 0%;
+    padding: 1%;
+    
+    
+    
+}
+
+
+.all-posts {
+    gap: 0%;
+    
+    
+}
+
+.each-post {
+    display: flex;
+    flex-shrink: auto;
+    flex-direction: column;
+    min-width: 40%;
+    max-width: 300px;
+    max-height: 300px; 
+    min-height: 300px;
+    
+    border-radius: 10px;
+    padding: 10%;
+    
+}
+.each-post-title {
+    text-align: center;
+    min-height: 30px;
+    max-height: 30px;
+    padding-bottom: 10%;
+}
+
+.each-post-author-topic {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.each-post-body {
+    overflow: hidden;
+    text-align: center;
+}

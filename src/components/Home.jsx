@@ -10,7 +10,9 @@ import { SearchBar } from "./SearchBar.jsx";
 
 export const Home = () => {
   const [allPosts, setAllPosts] = useState([]);
+  // allPosts are all my posts in the database
   const [allUserLikes, setAllUserLikes] = useState([]);
+  
   const [topics, setTopics] = useState([]);
   const [filteredPostsByTopic, setFilteredPostsByTopic] = useState([]);
   const [topicId, setTopicId] = useState("0");
@@ -61,7 +63,7 @@ export const Home = () => {
     );
     setFilteredPostsByTopic(filteredPosts);
     
-  }, [searchTerm, allPosts, filteredPostsByTopic]);
+  }, [allPosts, searchTerm]);
 
 
 
